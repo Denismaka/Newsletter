@@ -15,6 +15,7 @@
         <input type="email" id="email" name="email" required>
         <button type="submit">s'inscrire</button>
     </form>
+    <p>&copy; 2025 <a href="#" style="color: #af005d;">Denis Maka</a>, Tous droits réservés.</p>
 </body>
 
 </html>
